@@ -1,10 +1,8 @@
 # Project Title
 
 ## My package
-Description of your package.
+This is my repository for working through the Crackin Codes with Python book by Al Sweigart
 
-## Overview
-Overview of your project.
 
 ## Author(s)
 List of authors.
@@ -18,3 +16,11 @@ Instructions on how to use your project.
             
 ## Installation
 Instructions on how to install your project.
+
+```bash
+>>> python3 first.py 
+>>> source .venv/bin/activate
+>>> python3 -m pip install -r requirements.txt
+```
+
+
